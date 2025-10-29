@@ -92,10 +92,10 @@ section h3 {
 }
 
 .no-participants {
-  font-style: italic;
   color: #888;
-  margin: 8px 0 0 0;
+  font-style: italic;
   font-size: 14px;
+  margin: 8px 0 0 0;
 }
 
 .form-group {
